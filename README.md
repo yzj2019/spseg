@@ -11,3 +11,4 @@ supported:
 TODO:
 - [ ] pypi publish
 - [ ] merge https://github.com/yzj2019/superpoint_graph
+- [ ] use cmake instead of setuptools
